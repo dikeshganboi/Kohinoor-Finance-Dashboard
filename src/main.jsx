@@ -7,7 +7,7 @@ import "./index.css"; // Tailwind styles
 // StrictMode highlights potential problems during development
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/Kohinoor-Finance-Dashboard">
       <App />
     </BrowserRouter>
   </StrictMode>
