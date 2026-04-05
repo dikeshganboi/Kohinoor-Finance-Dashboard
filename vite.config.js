@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Kohinoor-Finance-Dashboard/",
+  base: "./",
   plugins: [
     react(),        // Enables JSX transform + Fast Refresh
     tailwindcss(),  // Tailwind v4 — no tailwind.config needed
