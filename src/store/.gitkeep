@@ -1,0 +1,7 @@
+/* 
+  /store — Global state management (Zustand)
+  
+  We'll create stores here:
+    useAuthStore.js   → Current user role (viewer/admin)
+    useDashboardStore.js → Dashboard filters, date range
+*/

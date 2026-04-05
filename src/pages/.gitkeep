@@ -1,0 +1,8 @@
+/* 
+  /pages — Full-page route components
+  
+  Each file here represents a "page" in the app:
+    Dashboard.jsx   → Main overview with cards + charts
+    Transactions.jsx → Filterable transaction table
+    Insights.jsx     → Analytics & spending breakdown
+*/

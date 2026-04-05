@@ -1,0 +1,8 @@
+/* 
+  /data — Mock data files (no backend needed)
+  
+  Contains:
+    transactions.js  → Array of transaction objects
+    categories.js    → Spending categories
+    users.js         → Mock user profiles with roles
+*/
